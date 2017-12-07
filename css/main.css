@@ -11,3 +11,27 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  display: inline-block;
+}
+
+.btn-small {
+  display: inline-block;
+}
+
+.btn-big {
+  display: block;
+}
+
+.btn-subtle {
+  display: inline-block;
+}
+
+.btn-ghost {
+  display: inline-block;
+}
+
+.btn-warning {
+  display: inline-block;
+}
