@@ -16,12 +16,28 @@ div {
   display: inline-block;
 }
 
+.btn-normal {
+  display: inline-block;
+  font-size: 1.125rem;
+  padding: .4em;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
 .btn-small {
   display: inline-block;
+  font-size: .875rem;
+  padding: .3em;
+  border-radius: 8px;
+  text-decoration: none;
 }
 
 .btn-big {
-  display: block;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .75em;
+  border-radius: 8px;
+  text-decoration: none;
 }
 
 .btn-subtle {
